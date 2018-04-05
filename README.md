@@ -1,9 +1,9 @@
 # Hello!
-I'm learning to use git and organizing some notes here.
+I'm learning to use github and organizing some notes here.
 ## Me
 I love to program, but it's always been a hobby for me. I'd like to organize myself and get some focus and maybe do something more in the area.
 
-I'm especially interested in Data Science and am studying it with DataQuest.io.
+I'm especially interested in Data Science and am studying it with http://DataQuest.io.
 ## Languages I Speak
 - Python
 - PHP
@@ -13,12 +13,13 @@ I'm especially interested in Data Science and am studying it with DataQuest.io.
 - CSS
 - LSL
 ## My Project Wishlist
-Data Analysis
+
+In my abundant free time, these are projects I'd love to work on.
+### Data Analysis
 - Analysis of Tampa Bay Car Accidents
 - Analysis of Opiod Crisis
 - Analysis of Suicide Rates
-
-Games
+### Games
 - Animal Breeding Game
 - Fishing Game for Opensim
 - Browser-Based Forest Friends Game
